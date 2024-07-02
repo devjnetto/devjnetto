@@ -4,7 +4,7 @@
 - 🔭 Atualmente trabalhando em projetos de automação, chatbots, meios de pagamento, PIX, Open Finance, VISA e Onboarding Digital
 - 🌱 Participando dos desafios
 - 👯 Procurando colaborar em projetos open source.
-- 📫 Como me encontrar: [devjnetto@gmail.com]
+- 📫 Como me encontrar: [dev.jnetto@gmail.com]
 - 💬 Pergunte-me sobre: Python, APIs, Automação, Chatbots
 - ⚡ Curiosidade: Adoro resolver problemas e aprender novas tecnologias.
 
