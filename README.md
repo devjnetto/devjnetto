@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @devjnetto
 # Olá, me chamo José Netto [@devjnetto] 👋
 
 ### Sobre Mim
