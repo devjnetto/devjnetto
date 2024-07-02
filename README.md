@@ -1,8 +1,8 @@
 # Olá, me chamo José Netto [@devjnetto] 👋
 
 ### Sobre Mim
-- 🔭 Atualmente trabalhando em projetos de automação e chatbots.
-- 🌱 Participando do desafio
+- 🔭 Atualmente trabalhando em projetos de automação, chatbots, meios de pagamento, PIX, Open Finance, VISA e Onboarding Digital
+- 🌱 Participando dos desafios
 - 👯 Procurando colaborar em projetos open source.
 - 📫 Como me encontrar: [devjnetto@gmail.com]
 - 💬 Pergunte-me sobre: Python, APIs, Automação, Chatbots
